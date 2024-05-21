@@ -664,6 +664,10 @@ video {
   margin-top: 1.5rem;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -940,6 +944,10 @@ video {
   padding-top: 2rem;
 }
 
+.pb-28 {
+  padding-bottom: 7rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -991,6 +999,10 @@ video {
   line-height: 1.5;
 }
 
+.leading-relaxed {
+  line-height: 1.625;
+}
+
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
@@ -1027,6 +1039,10 @@ video {
 
 .opacity-\[\.8\] {
   opacity: .8;
+}
+
+.opacity-\[\.35\] {
+  opacity: .35;
 }
 
 .shadow {
@@ -1087,6 +1103,10 @@ video {
 
   .md\:ml-9 {
     margin-left: 2.25rem;
+  }
+
+  .md\:mb-4 {
+    margin-bottom: 1rem;
   }
 
   .md\:flex {
